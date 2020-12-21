@@ -1,11 +1,7 @@
-# Milestone-project-repo
-
-Readme file for the Milestone Project 1.
+# Milestone project
 
 
-# Link to the Github Repository
-[Github](https://github.com/damjaanko/milestone-project-repo)
-
-![Insert image here]()
+## Link to the Github Repository
+[Github repository](https://github.com/damjaanko/milestone-project-repo)
 
 + pre planning session for the structure of the website 
