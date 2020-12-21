@@ -1,5 +1,11 @@
-[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/damjaanko/milestone-project-repo)
+# Milestone-project-repo
 
-# milestone-project-repo
-Repository for my milestone project 
 Readme file for the Milestone Project 1.
+
+
+# Link to the Github Repository
+[Github](https://github.com/damjaanko/milestone-project-repo)
+
+![Insert image here]()
+
++ pre planning session for the structure of the website 
